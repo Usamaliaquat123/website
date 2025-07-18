@@ -153,7 +153,7 @@ const Blog = () => {
                   Get in Touch
                 </a>
                 <a 
-                  href="https://github.com/serhatsoysal" 
+                  href="https://github.com/usamaliaquat" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="btn-secondary"

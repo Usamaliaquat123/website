@@ -9,10 +9,10 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
   
   const socialLinks = [
-    { name: 'GitHub', icon: FiGithub, url: 'https://github.com/serhatsoysal' },
-    { name: 'LinkedIn', icon: FiLinkedin, url: 'https://linkedin.com/in/serhatsoysal' },
-    { name: 'Twitter', icon: FiTwitter, url: 'https://twitter.com/serhatsoysal' },
-    { name: 'Email', icon: FiMail, url: 'mailto:serhat@serhatsoysal.com' }
+    { name: 'GitHub', icon: FiGithub, url: 'https://github.com/usamaliaquat' },
+    { name: 'LinkedIn', icon: FiLinkedin, url: 'https://linkedin.com/in/usamaliaquat' },
+    { name: 'Twitter', icon: FiTwitter, url: 'https://twitter.com/usamaliaquat' },
+    { name: 'Email', icon: FiMail, url: 'mailto:usama@usamaliaquat.com' }
   ];
 
   const footerLinks = [
@@ -73,7 +73,7 @@ const Footer = () => {
               {t('footer.contact')}
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-2">
-              {t('contact.info.email')}: serhat@serhatsoysal.com
+              {t('contact.info.email')}: usama@usamaliaquat.com
             </p>
             <p className="text-gray-600 dark:text-gray-300">
               {t('contact.info.response')}

@@ -119,7 +119,7 @@ const About = () => {
                 transition={{ duration: 0.8, delay: 0.2 }}
               >
                 <div className="bg-gradient-to-br from-primary-500 to-blue-600 rounded-2xl p-8 text-white">
-                  <h2 className="text-2xl font-bold mb-4">Hello, I'm Serhat!</h2>
+                  <h2 className="text-2xl font-bold mb-4">Hello, I'm Usama!</h2>
                   <p className="text-lg mb-6">
                     I'm a passionate software engineer with a strong focus on building scalable, efficient, and 
                     user-friendly applications. My journey in software development has led me to specialize in 

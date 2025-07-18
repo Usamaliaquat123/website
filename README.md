@@ -28,8 +28,8 @@ A modern, responsive personal website built with React.js, Tailwind CSS, and Fra
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/serhatsoysal/serhatsoysal.com.git
-   cd serhatsoysal.com
+   git clone https://github.com/usamaliaquat/usamaliaquat.com.git
+cd usamaliaquat.com
    ```
 
 2. **Install dependencies**
@@ -184,7 +184,7 @@ The website uses Inter font from Google Fonts. You can change it in:
 
 2. Add to package.json:
    ```json
-   "homepage": "https://serhatsoysal.github.io/serhatsoysal.com",
+   "homepage": "https://usamaliaquat.github.io/usamaliaquat.com",
    "scripts": {
      "predeploy": "npm run build",
      "deploy": "gh-pages -d build"
@@ -201,8 +201,8 @@ The website uses Inter font from Google Fonts. You can change it in:
 Create a `.env` file in the root directory:
 
 ```env
-REACT_APP_SITE_URL=https://serhatsoysal.com
-REACT_APP_CONTACT_EMAIL=serhat@serhatsoysal.com
+REACT_APP_SITE_URL=https://usamaliaquat.com
+REACT_APP_CONTACT_EMAIL=usama@usamaliaquat.com
 ```
 
 ## 📱 Progressive Web App
@@ -240,6 +240,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Live Demo**: [serhatsoysal.com](https://serhatsoysal.com)
+**Live Demo**: [usamaliaquat.com](https://usamaliaquat.com)
 
-**Contact**: [serhat@serhatsoysal.com](mailto:serhat@serhatsoysal.com) 
+**Contact**: [usama@usamaliaquat.com](mailto:usama@usamaliaquat.com) 

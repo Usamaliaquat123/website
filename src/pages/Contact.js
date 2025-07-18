@@ -191,10 +191,10 @@ const Contact = () => {
                     <div className="flex items-center gap-4">
                       <FiMail className="w-5 h-5 text-primary-600 dark:text-primary-400" />
                       <a 
-                        href="mailto:serhat@serhatsoysal.com"
+                        href="mailto:usama@usamaliaquat.com"
                         className="text-gray-900 dark:text-white hover:text-primary-600 dark:hover:text-primary-400 transition-colors duration-200"
                       >
-                        serhat@serhatsoysal.com
+                        usama@usamaliaquat.com
                       </a>
                     </div>
                   </div>
