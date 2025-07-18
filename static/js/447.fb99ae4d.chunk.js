@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkusamaliaquat_website=self.webpackChunkusamaliaquat_website||[]).push([[447],{447:(e,a,t)=>{e.exports=t.p+"static/media/modern-frontend-react-typescript.e30ff04e530c54012855.md"}}]);
