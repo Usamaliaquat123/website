@@ -21,32 +21,32 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const { name, email, subject, message } = formData;
-    const mailtoLink = `mailto:serhat@serhatsoysal.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
+    const mailtoLink = `mailto:usama@usamaliaquat.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
     window.location.href = mailtoLink;
   };
 
   const socialLinks = [
     {
       name: 'GitHub',
-      url: 'https://github.com/serhatsoysal',
+      url: 'https://github.com/usamaliaquat',
       icon: FiGithub,
       color: 'hover:text-gray-900 dark:hover:text-white'
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/serhatsoysal',
+      url: 'https://linkedin.com/in/usamaliaquat',
       icon: FiLinkedin,
       color: 'hover:text-blue-600'
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/serhatsoysal',
+      url: 'https://twitter.com/usamaliaquat',
       icon: FiTwitter,
       color: 'hover:text-blue-400'
     },
     {
       name: 'Email',
-      url: 'mailto:serhat@serhatsoysal.com',
+      url: 'mailto:usama@usamaliaquat.com',
       icon: FiMail,
       color: 'hover:text-red-500'
     }
